@@ -64,7 +64,7 @@ aws-etl-incremental-pipeline/
 ├── lambda/
 │   └── lambda_handler.py
 ├── athena/
-│   └── sample_queries.sql
+│   └── sample_queries.png
 ├── assets/
 │   ├── screenshot_1.png
 │   ├── screenshot_2.png
@@ -84,8 +84,8 @@ aws-etl-incremental-pipeline/
 
 ## 📬 Contact
 
-**Author**: Umit Samuntu  
-**LinkedIn**: [linkedin.com/in/umitsamuntu](https://linkedin.com/in/umitsamuntu)  
+**Author**: Umit Samanta  
+**LinkedIn**: [linkedin.com/in/umitsamanta103](https://linkedin.com/in/umitsamanta103)  
 **GitHub**: [github.com/umitsam14](https://github.com/umitsam14)
 
 ## 📌 License
