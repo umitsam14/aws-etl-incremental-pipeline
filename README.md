@@ -64,7 +64,8 @@ aws-etl-incremental-pipeline/
 ├── lambda/
 │   └── lambda_handler.py
 ├── athena/
-│   └── sample_queries.png
+│   └── athena_query.png
+│   └── athena_output.png        
 ├── assets/
 │   ├── screenshot_1.png
 │   ├── screenshot_2.png
