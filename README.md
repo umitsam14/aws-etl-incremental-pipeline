@@ -60,6 +60,7 @@ aws-etl-incremental-pipeline/
 ├── README.md
 ├── data/
 │   ├── orders_etl.json
+│   ├── updated_orders_etl.json
 │   └── final_orders_etl.json
 ├── lambda/
 │   └── lambda_handler.py
@@ -67,12 +68,10 @@ aws-etl-incremental-pipeline/
 │   └── athena_query.png
 │   └── athena_output.png        
 ├── assets/
-│   ├── screenshot_1.png
-│   ├── screenshot_2.png
-│   ├── screenshot_3.png
-│   ├── screenshot_4.png
-│   ├── screenshot_5.png
-│   └── screenshot_6.png
+│   ├── de-etl-crawler.png
+│   ├── parq_store_de_files.png
+│   ├── incoming_json_de_files.png
+│   └── s3-bucket.png
 ```
 
 ## 💡 Key Features
